@@ -1,2 +1,2 @@
-prime_num.prime? 
+defined prime_number()
 # Add  code here!
